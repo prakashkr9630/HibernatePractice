@@ -1,0 +1,8 @@
+this has this basic steps:
+tutorial: java brain hibernate
+video index: 27(youtube index)
+
+HQL basic 
+
+
+ 

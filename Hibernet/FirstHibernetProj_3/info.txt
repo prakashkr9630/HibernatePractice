@@ -1,0 +1,9 @@
+this has this basic steps:
+tutorial: java brain hibernate
+video index: 12(youtube index)
+
+what if we have List of address that need to store ..?
+
+
+user either set or Array List example in the userdetails class.
+ 

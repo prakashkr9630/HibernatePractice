@@ -1,0 +1,6 @@
+this has this basic steps:
+1.intalling and setting up hiber net 
+2.hibernet configuration in hibernate.cfg.xml
+3. wrtting some basic task like inserting and fetching recored by mean.
+tutorial: java brain hibernate
+video index: 1-10

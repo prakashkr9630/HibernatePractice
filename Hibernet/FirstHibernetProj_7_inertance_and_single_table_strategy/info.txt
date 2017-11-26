@@ -1,0 +1,16 @@
+this has this basic steps:
+tutorial: java brain hibernate
+video index: 20(youtube index)
+
+ineritance and single table strategy for ineritance(A type of inheritance);
+
+Discremenator is only for single class strategy;
+
+ 
+
+
+
+
+
+
+  

@@ -1,0 +1,14 @@
+this has this basic steps:
+tutorial: java brain hibernate
+video index: 12-14(youtube index)
+
+what if we have List of address that need to store ..?
+
+this is type of fetching object from database(Eager or lazy).
+
+
+user either set or Array List example in the userdetails class.
+
+this is basically about lazy initilization concept, 
+if we don not define any fetch type in @ElementCollection(fetch=FetchType.EAGER)
+it wil be lazy initilization, (fetch=FetchType.EAGER) will force to have eager initilization.

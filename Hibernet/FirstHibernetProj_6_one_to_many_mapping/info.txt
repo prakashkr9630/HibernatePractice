@@ -1,0 +1,7 @@
+this has this basic steps:
+tutorial: java brain hibernate
+video index: 16(youtube index)
+
+one to many mapping(entity inside another entity)
+
+  

@@ -1,0 +1,7 @@
+this has this basic steps:
+tutorial: java brain hibernate
+video index: 30(youtube index)
+
+Named query
+
+ 

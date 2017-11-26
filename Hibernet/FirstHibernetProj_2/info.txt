@@ -1,0 +1,22 @@
+this has this basic steps:
+tutorial: java brain hibernate
+video index: 11(youtube index)
+
+here we are trying to insert address object which is user defined poja 
+
+
+what if we don not want to to store the column name as it is defined in poja class , 
+then we will use @column(name="somename") to defined another column name to be stored in the db tabel 
+
+Again the problem is, if we want there will be tow ibject for address on the userdetails poja class adn if we try to insert value 
+then what will happen , that is not going to happen.
+so we will annote 
+
+changes UserDetails FILE
+there is not vlaue ser in the _main.java file , it will just create 
+
+Another point is : what of we want a pojo class to be trated as primary key, then we need to use 
+@EmbededId instead of @Id , process implemantation will be as same Address(userdetails.java)    
+ 
+
+ 

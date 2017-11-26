@@ -1,0 +1,20 @@
+this has this basic steps:
+tutorial: java brain hibernate
+video index: 23(youtube index)
+
+Crud operation
+
+this is basically 
+Create, 
+read,
+update
+delete 
+
+spmething like this 
+Userdetails user = session.get(Userdetails.class, 1))
+session.update(user)
+session.delete(user)
+ 
+this is as not important.you already know most of them . 
+
+ 

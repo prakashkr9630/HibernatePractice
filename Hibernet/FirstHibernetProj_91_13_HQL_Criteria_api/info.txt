@@ -1,0 +1,16 @@
+this has this basic steps:
+tutorial: java brain hibernate
+video index: 31(youtube index)
+
+Criteria api, another way to pull up data from db
+
+it is basically ,when we i have long and long query then it is user full;
+
+Criteria, 
+Projection(use for aggregated funtion)
+
+ 
+
+
+
+ 
